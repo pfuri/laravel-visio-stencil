@@ -24,4 +24,4 @@ Right click on a column and press the "Delete" key
 Drag a "Relationship" shape onto the grid.  Where you connect the ends of the Relationship shape is a matter of preference.   Personally, I like connect all Relationship tails to the bottom of the Table, and all of the heads to the top.
 
 # The Template
-The LaravelDatabaseTemplate.vsd file contains the migrations, password_resets & users tables as a starting point for a new Laravel database design
+The LaravelDatabaseTemplate.vsdx file contains the migrations, password_resets & users tables as a starting point for a new Laravel database design
